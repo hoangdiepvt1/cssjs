@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='https://goo.gl/5tfUPQ' target='_blank'><img src='https://3.bp.blogspot.com/-SzgfTio0w1o/WP3uEG7268I/AAAAAAAABqI/TgKEsBMSOWAKeSF48niHUrGiUpV-6oYpACLcB/s320/0b0e5a5c0d9e943d32ed19345d53e5e5.jpg' width='500px'/><br/>13 Chỉ còn một số căn đẹp </a>. Dự án Jamila sở hửu vị trí số 1. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='https://goo.gl/5tfUPQ' target='_blank'><img src='https://2.bp.blogspot.com/-glOEjDFvbAs/WPoWLHtgwwI/AAAAAAAABWw/huavR32AUFMg32MMjoHLwc8sMIwbv7mpgCLcB/s320/logo-jamila-khang-dien.jpg' width='500px'/><br/>13 Chỉ còn một số căn đẹp </a>. Dự án Jamila sở hửu vị trí số 1. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
